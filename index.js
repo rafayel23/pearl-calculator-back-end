@@ -33,7 +33,7 @@ app.post('/calculate', (req, res) => {
             input_4 + input_5,
             input_6 + input_7,
             input_8 + input_9,
-            input_10 + input_11 + 500,
+            input_10 + input_11 + 200,
         ],
     })
 })
